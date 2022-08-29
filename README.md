@@ -2,7 +2,7 @@
 Information overload is no surprise in this era of information dumping through blogs, social networks, websites, media, & what-nots.</br></br>
 For addressing and automating my day-to-day activity of capturing the gist of an article, news or basically just general information about my favourite cartoon character, I want to build a text-summarizer.</br></br>
 Hoping to develop a text-summarizer from scratch and bit-by-bit grow this little endeavour to better understand the techniques used to enhance natural language analytics.</br></br> 
-Eventually, in a possible future project, wish to develop a personal assistant for myself (a friendly assistant like Jarvis, hopefully! :D)</br></br></br> 
+This project is a pipeline project to develop a personal assistant for myself (a friendly assistant like Jarvis, hopefully! :D )</br></br>
 
 
 # Aim
