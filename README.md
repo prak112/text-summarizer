@@ -17,3 +17,10 @@ This project is a pipeline project to develop a personal assistant for myself (a
     - Possible resources to check for deployment :
         - [RealPython blog](https://realpython.com/python-web-applications/) for Flask
         - [Chanin Nantasenamat blog](https://towardsdatascience.com/how-to-build-a-real-time-transcription-app-in-python-7939c7b02614) for Streamlit
+</br></br>
+
+# Approach
+### Test-Run
+- Initiate tutorial example from GeeksForGeeks
+- Modify example as required by updated modules & libraries
+- Adapt example to summmarizing text from Finnish as well
