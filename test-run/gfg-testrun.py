@@ -1,8 +1,8 @@
 #%%
 # import libraries
 import nltk
+from nltk import *
 nltk.download('stopwords')
-from nltk.tokenize import word_tokenize, sent_tokenize
 
 print("Library imports successful\n")
 
@@ -29,7 +29,7 @@ eng_stopwords = set(stopwords.words('english'))
 fin_stopwords = set(stopwords.words('finnish'))
 
 #%%
-# tokenize words -- LookUp error
+# tokenize words -- LookUp error, also check MKL-service package installation
 eng_tokens = nltk.word_tokenize(eng_text, 'english')
 fin_tokens = nltk.word_tokenize(fin_text, 'finnish')
 
